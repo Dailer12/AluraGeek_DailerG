@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "303a",
+      "name": "Isla Gorgona",
+      "price": "100",
+      "imageUrl": "https://images.unsplash.com/photo-1682687981630-cefe9cd73072?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "b028",
+      "name": "Isla del Rosario",
+      "price": "120",
+      "imageUrl": "https://images.unsplash.com/photo-1583364493238-248032147fbd?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "1a42",
+      "name": "Isla de San Andres",
+      "price": "80",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "8725",
+      "name": "El Tayrona",
+      "price": "130",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-92ab472cad5d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
